@@ -4,4 +4,4 @@ In this project, MiniFASNetV2 and MiniFASNetV1SE networks, which have been previ
 
 
 #Demo Video
-<img src="https://www.youtube.com/watch?v=aDekrVksmEg" height=640 width=640 />
+<video src="https://www.youtube.com/watch?v=aDekrVksmEg" height="640" width="640"  />
