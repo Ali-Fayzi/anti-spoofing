@@ -4,4 +4,4 @@ In this project, MiniFASNetV2 and MiniFASNetV1SE networks, which have been previ
 
 
 #Demo Video
-![Demo]([https://github.com/Ali-Fayzi/anti-spoofing/blob/master/demo/Anti-Spoofing.mp4](https://www.youtube.com/watch?v=aDekrVksmEg))
+![Demo](https://www.youtube.com/watch?v=aDekrVksmEg)
