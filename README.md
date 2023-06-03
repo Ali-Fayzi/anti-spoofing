@@ -4,5 +4,5 @@ In this project, MiniFASNetV2 and MiniFASNetV1SE networks, which have been previ
 
 
 #Demo Video
-Click on the image to watch the video
+Click on the image to watch the video<br />
 [![Watch the video](https://img.youtube.com/vi/aDekrVksmEg/default.jpg)](https://www.youtube.com/watch?v=aDekrVksmEg)
