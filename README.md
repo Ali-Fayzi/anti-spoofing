@@ -3,6 +3,8 @@ Anti-spoofing with deep learning is a technique that uses convolutional neural n
 In this project, MiniFASNetV2 and MiniFASNetV1SE networks, which have been previously trained, have been used.
 
 
-#Demo Video<br />
-Click on the image to watch the video<br />
-[![Watch the video](https://img.youtube.com/vi/aDekrVksmEg/default.jpg)](https://www.youtube.com/watch?v=aDekrVksmEg)
+## Demo Video :tada:
+https://github.com/Ali-Fayzi/anti-spoofing/assets/77124662/b08f8da3-5acd-4443-9050-87eff7b2cff8
+
+
+
